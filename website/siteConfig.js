@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'test-linkedin-shmeka',
+        linkedin: 'https://www.linkedin.com/in/shmeka-s-67119959/',
         twitter: 'test-twitter-shmeka',
         github: 'shmeka',
     },
